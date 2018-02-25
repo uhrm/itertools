@@ -6,7 +6,7 @@
 
   <PropertyGroup>
     <Product>itertools</Product>
-    <Version>0.1.0</Version>
+    <Version>$version$</Version>
     <Authors>Markus Uhr</Authors>
     <Description>C# adaptation of Python's itertools library.</Description>
     <PackageLicenseUrl>https://opensource.org/licenses/BSD-2-Clause</PackageLicenseUrl>
