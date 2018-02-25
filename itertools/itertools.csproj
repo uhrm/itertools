@@ -4,4 +4,18 @@
     <TargetFramework>netstandard2.0</TargetFramework>
   </PropertyGroup>
 
+  <PropertyGroup>
+    <Product>itertools</Product>
+    <Version>0.1.0</Version>
+    <Authors>Markus Uhr</Authors>
+    <Description>C# adaptation of Python's itertools library.</Description>
+    <PackageLicenseUrl>https://opensource.org/licenses/BSD-2-Clause</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/uhrm/itertools</PackageProjectUrl>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="../LICENSE">
+      <PackagePath>/</PackagePath>
+    </Content>
+  </ItemGroup>
 </Project>
